@@ -2,6 +2,11 @@
 
 En este archivo se registran los cambios y actualizaciones realizados en el proyecto **Repaso General de C++**.
 
+## [1.0.3] - 2026-11-19
+
+### Actualizado
+- README.md
+
 ## [1.0.2] - 2026-11-19
 
 ### Agregado
